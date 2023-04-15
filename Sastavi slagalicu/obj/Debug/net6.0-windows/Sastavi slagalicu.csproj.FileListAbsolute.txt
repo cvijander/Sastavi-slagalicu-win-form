@@ -1,0 +1,17 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Sastavi slagalicu\Sastavi slagalicu\bin\Debug\net6.0-windows\Sastavi slagalicu.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Sastavi slagalicu\Sastavi slagalicu\bin\Debug\net6.0-windows\Sastavi slagalicu.deps.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Sastavi slagalicu\Sastavi slagalicu\bin\Debug\net6.0-windows\Sastavi slagalicu.runtimeconfig.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Sastavi slagalicu\Sastavi slagalicu\bin\Debug\net6.0-windows\Sastavi slagalicu.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Sastavi slagalicu\Sastavi slagalicu\bin\Debug\net6.0-windows\Sastavi slagalicu.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Sastavi slagalicu\Sastavi slagalicu\obj\Debug\net6.0-windows\Sastavi slagalicu.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Sastavi slagalicu\Sastavi slagalicu\obj\Debug\net6.0-windows\Sastavi_slagalicu.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Sastavi slagalicu\Sastavi slagalicu\obj\Debug\net6.0-windows\Sastavi slagalicu.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Sastavi slagalicu\Sastavi slagalicu\obj\Debug\net6.0-windows\Sastavi slagalicu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Sastavi slagalicu\Sastavi slagalicu\obj\Debug\net6.0-windows\Sastavi slagalicu.AssemblyInfoInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Sastavi slagalicu\Sastavi slagalicu\obj\Debug\net6.0-windows\Sastavi slagalicu.AssemblyInfo.cs
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Sastavi slagalicu\Sastavi slagalicu\obj\Debug\net6.0-windows\Sastavi slagalicu.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Sastavi slagalicu\Sastavi slagalicu\obj\Debug\net6.0-windows\Sastavi slagalicu.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Sastavi slagalicu\Sastavi slagalicu\obj\Debug\net6.0-windows\refint\Sastavi slagalicu.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Sastavi slagalicu\Sastavi slagalicu\obj\Debug\net6.0-windows\Sastavi slagalicu.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Sastavi slagalicu\Sastavi slagalicu\obj\Debug\net6.0-windows\Sastavi slagalicu.genruntimeconfig.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Sastavi slagalicu\Sastavi slagalicu\obj\Debug\net6.0-windows\ref\Sastavi slagalicu.dll
